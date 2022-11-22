@@ -1,4 +1,0 @@
-{
-  "latest": "2.5",
-  "updateurl": "https://cdn.discordapp.com/attachments/1042110243359965235/1044347931765002271/AT.lua"
-}
